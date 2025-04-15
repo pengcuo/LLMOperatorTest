@@ -1,0 +1,3 @@
+[submodule "FlashMLA"]
+	path = FlashMLA
+	url = https://github.com/deepseek-ai/FlashMLA.git
